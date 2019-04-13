@@ -67,6 +67,7 @@ body {
 }
 .slide{
   width: 800px;
+  height: 400px;
   margin: 0 auto;
   margin-top: 40px;
 }
